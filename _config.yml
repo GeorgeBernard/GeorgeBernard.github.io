@@ -9,12 +9,10 @@
 title: George Bernard
 email: ghb5@duke.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Some thoughts, scraps, and missives from an engineer who cares.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://georgebernard.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: Bernard_SHA_256
 github_username:  GeorgeBernard
 
 # Build settings
