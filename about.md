@@ -1,15 +1,26 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I like to learn about stuff and talk with people (often about more stuff)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Currently finishing up my B.S.Eng. in Durham NC, soon to be working in
+Charlotte NC.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+## Interests
+
+### Computer-y Stuff
+- I like writing code (love functional paradigms but assembly is pretty cute
+  too)
+- Math (topic depends on the day)
+- GNU/Linux (currently running Ubuntu)
+- Writing Tests (an aesthetic experience)
+
+### Being a better person
+- Ethics and applied philosophy
+- Picking up heavy things and putting them down
+- Walking around outside (sometimes for multiple days)
+- Making cool food
+- Talking to cool people
